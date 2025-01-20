@@ -11,13 +11,3 @@
 Our mission is to create a global, inclusive platform for developers to access free, open-source learning resources. By contributing to Levoric Learn, you help foster a community dedicated to sharing knowledge and promoting innovation.
 
 With a focus on accessibility and collaboration, Levoric Learn aims to provide comprehensive resources for developers worldwide, enabling them to grow and succeed in their careers.
-
----
-
-## Build the Site Locally
-
-To set up the site locally, you'll need [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed. Check if they are installed by running:
-
-```bash
-node -v
-yarn -v
