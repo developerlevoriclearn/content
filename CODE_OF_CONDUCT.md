@@ -27,4 +27,4 @@ Violations of this Code of Conduct may result in warnings, temporary suspension,
 
 By participating in this repository, you agree to uphold this Code of Conduct and contribute to a respectful and inclusive community.
 
-For more information, please visit our [Community Guidelines](https://github.com/developerlevoriclearn/community-guidelines).
+For more information, please visit our [Community Guidelines](https://policies.levoriclearn.com/community-guidelines).
